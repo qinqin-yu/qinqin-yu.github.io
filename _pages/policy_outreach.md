@@ -28,7 +28,7 @@ Between finishing undergrad and starting my PhD, I spent a year developing Keple
 
 During my PhD, I was very involved in the [Society of Womxn in the Physical Sciences](https://www.swpsberkeley.com/) at UC Berkeley, an organization that promotes a welcoming and successful community of womxn in the physical sciences.
 
-# Writing for the general public
+# Writing
 
 * M. Brush, J. Liu, Q. Yu, Commentary: revamping graduate biophysics education, Physics Today, 2021, [article](https://physicstoday.scitation.org/do/10.1063/PT.6.3.20210623a/full/).
 * E. Lee, E. Sullivan, V. Velan, Q. Yu, Bridging the culture gap between science and policy, Berkeley Science Review blog, 2019, [article](https://berkeleysciencereview.com/article/2019/07/31/bridging-the-culture-gap-between-science-and-policy).
@@ -37,7 +37,7 @@ During my PhD, I was very involved in the [Society of Womxn in the Physical Scie
 * Q. Yu, The Cal Future Forum: An Exploration of Research to Save a Changing World, Berkeley Science Review blog, 2018, [article](https://berkeleysciencereview.com/article/2017/11/01/the-cal-future-forum-an-exploration-of-research-to-save-a-changing-world).
 * Q. Yu, Diversity’s Positive Feedback Loop, Berkeley Science Review blog, 2017, [article](https://berkeleysciencereview.com/article/2017/06/07/diversity-s-positive-feedback-loop).
 
-# Talks and outreach for the general public
+# Talks and Outreach
 
 * UC Berkeley Physics Commencement speaker, June 2022.
 * The Compass Lectures at UC Berkeley, Change and Probability in Microbial Evolution, April 2022. 1-hour presentation to UC Berkeley undergraduate and graduate students. 
