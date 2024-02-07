@@ -10,31 +10,38 @@ redirect_from:
 {% include base_path %}
 
 # Education
-======
-** University of California Berkeley**, PhD in Physics (May 2022)
-Dissertation: "Empirical tools for studying genetic drift in microbial populations"
+
+**University of California Berkeley**, PhD in Physics (May 2022)
+
+Dissertation: _Empirical tools for studying genetic drift in microbial populations_
+
 Committee: Oskar Hallatschek (chair), Hernan G. Garcia, Yun S. Song, Matthew F. Traxler
+
 [Abstract](https://escholarship.org/uc/item/5f08d1kh)/PDF
 
-** Massachusetts Institute of Technology**, B.S. in Physics (2015)
-Dissertation: "Characterization of a two-color magneto-optical trap for a spin-squeezed optical lattice clock"
+**Massachusetts Institute of Technology**, B.S. in Physics (2015)
+
+Dissertation: _Characterization of a two-color magneto-optical trap for a spin-squeezed optical lattice clock_
+
 Advisor: Vladan Vuletic
+
 [Thesis](https://dspace.mit.edu/handle/1721.1/100323)
 
 Rock Bridge High School, Columbia, MO (2011)
 
+***
+
 # Research
-======
-** Harvard T. H. Chan School of Public Health
-Postdoctoral Fellow
-Advisor: Yonatan Grad
+
+**Harvard T. H. Chan School of Public Health**, Postdoctoral Fellow, 2022-present
 
 _Antigenic evolution in *Neisseria gonorrhoeae*_
 
 _Equity in wastewater-based epidemiology_
 
-** University of California Berkeley**
-PhD in Physics 2016-2022
+Advisor: Yonatan Grad
+
+**University of California Berkeley**, PhD in Physics, 2016-2022
 
 _Statistical inference of genetic drift from time-series genomic data_
 
@@ -42,47 +49,45 @@ _Spatial structure and genetic drift in microbial populations_
 
 Advisor: Oskar Hallatschek
 
-** One Health Trust **
+**One Health Trust**, National Science Policy Network SciPol Scholar in Residence, January 2022
+
 Formerly the Center for Disease Dynamics, Economics, and Policy
-SciPol Scholar in Residence
-January 2022
 
 Advisors: Erta Kalanxhi and Jessica Craig
 
 Literature review, drafting, and editing for the WHO Reports on National Actiona Plans for Antimicrobial Resistance in Kenya, Malawi, and Mali
 
-** University of California Berkeley **
-Spring 2017
+**University of California Berkeley**, Spring 2017
 
 As a graduate rotation student, I built a laser-based autofocus system for a new stroboscopic scattering microscope. The autofocusing setup allowed observations on the microscope to be made on both short and long timescales and the setup was used for studying exciton migration in novel materials.
 
 Advisor: Naomi Ginsberg
 
-** Massachusetts Institute of Technology**
-2013-2015
+**Massachusetts Institute of Technology**, 2013-2015
 
 For my undergraduate thesis with, I wrote simulations to characterize atomic trajectories in a two-color (i.e. dual-wavelength) magneto-optical trap. The two-color scheme allowed us to cool and trap atoms at lower magnetic field strengths, and this setup was incorporated into a broader experiment to create a spin-squeezed atomic clock. I also designed and implemented a laser frequency stabilization setup using optical fiber cavity feedback, performed computer simulations to optimize imaging resolution, and constructed electronic control circuits.
 
 Advisors: Vladan Vuletic, Boris Braverman, Akio Kawasaki, Dorian Gangloff, Alexei Bylinskii
 
-** Ludwig Maximilian University, Munich, Germany **
-Summer 2014
+**Ludwig Maximilian University, Munich, Germany**, Summer 2014
 
 As a summer intern through the MISTI program at MIT, I designed and implementated a stable laser setup with optical feedback.
 
 Advisors: Simon Folling and Immanuel Bloch
 
-** Massachusetts Institute of Technology **
-2012-2013
+**Massachusetts Institute of Technology**, 2012-2013
 
 A major open question in astrophysics is how the elements were formed in the early universe. Working with Dr. Anna Frebel, I collected spectroscopic data of old stars using the Magellan Telescopes in Chile and analyzed the spectra using peak-fitting software to quantify elemental abundances. We discovered a star with very low abundances of the heavy elements, which helped to constrain the yields in a known process (r-process) that gives rise to these elements.
 
 Advisor: Anna Frebel
 
-** Institute Neel, CNRS, Grenoble, France **
-Summer 2012
+**Institute Neel, CNRS, Grenoble, France**, Summer 2012
 
 As a summer intern through the MISTI program at MIT, I performed measurements of properties of frustrated magnetic materials with SQUID magnetometry. 
+
+Advisors: Carley Paulsen and Elsa Lhotel
+
+***
 
 # Awards & Fellowships
 
@@ -103,9 +108,9 @@ As a summer intern through the MISTI program at MIT, I performed measurements of
 * Presidential Scholar Finalist, 2011
 * Siemens Competition Regional Finalist, 2009
 
+***
   
 # Talks
-======
 
 ## Invited Talks
 
