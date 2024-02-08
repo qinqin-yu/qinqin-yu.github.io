@@ -26,7 +26,7 @@ We found that certain geographic locations, such as Alaska and the Navajo Nation
 
 Genetic drift is the change in a population’s composition due to the random nature of birth and death events. The strength of genetic drift directly impacts a population’s evolutionary trajectory by modulating the rate of diversity loss and the rate of adaptation.
 
-<ins>Statistical inference of genetic drift from lineage frequenciesa</ins>  
+<ins>Statistical inference of genetic drift from lineage frequencies</ins>  
 
 Genetic drift in pathogen transmission occurs due to the randomness of transmission and recovery events. The strength of genetic drift in pathogen transmission impacts disease spread, disease extinction, emergence of new variants, and effectiveness of control measures. However, inferring the strength of genetic drift on a large spatiotemporal scale has been challenging due to the lack of systematic contact tracing data on this scale and measurement noise. 
 
