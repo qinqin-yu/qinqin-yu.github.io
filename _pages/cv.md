@@ -86,6 +86,7 @@ Advisors: Carley Paulsen and Elsa Lhotel
 
 # Awards & Fellowships
 
+* American Sexually Transmitted Diseases Association Summer Fellowship, 2024
 * Summer Institutes in Statistics and Modeling in Infectious Diseases Scholarship, 2023
 * National Science Foundation Graduate Research Fellowship, 2016-2021
 * UC Berkeley Chancellor’s Fellowship, 2017-2019
@@ -178,7 +179,7 @@ Undergraduate students
 
 # Leadership and Service
 
-* Facilitator for the 11th Annual Workshop to Increase Diversity in Mathematical Modeling and Public Health hosted by CCDD and MIDAS, March 27-28, 2023
+* Facilitator for the 11th and 12th Annual Workshops to Increase Diversity in Mathematical Modeling and Public Health hosted by CCDD and MIDAS, March 27-28, 2023 and March 4-5, 2024
 * UC Berkeley Physics Department 1st Year Grad Mentor Buddy, 2018-2022
 * UC Berkeley Physics Department Colloquium Committee Student Representative, 2020-2021
 * UC Berkeley Physics Department Faculty Search Committee Student Member, 2019

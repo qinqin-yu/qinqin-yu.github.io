@@ -39,6 +39,7 @@ During my PhD, I was very involved in the [Society of Womxn in the Physical Scie
 
 # Talks and Outreach
 
+* 12th Annual Workshop to Increase Diversity in Mathematical Modeling and Public Health hosted by CCDD and MIDAS, Introduction to wastewater-based epidemiology, March 4-5, 2024.
 * UC Berkeley Physics Commencement speaker, June 2022.
 * The Compass Lectures at UC Berkeley, Change and Probability in Microbial Evolution, April 2022. 1-hour presentation to UC Berkeley undergraduate and graduate students. 
 * Bay Area Physics Circle, Chance in microbial evolution, July 2021. 1-hour presentation to 15 middle and high schoolers. 
