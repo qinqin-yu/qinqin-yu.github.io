@@ -18,15 +18,14 @@ author_profile: true
 
 \* denotes equal contribution  
 Note that before 2014, my legal name was Qinsi Yu.
-## Preprints
-
-**QinQin Yu**, Scott Olesen, Claire Duvallet, and Yonatan Grad. Assessment of sewer connectivity in the United States and its implications for equity in wastewater-based epidemiology. medRxiv (2024). Under review at PLOS Global Public Health.  
-[medRxiv](https://www.medrxiv.org/content/10.1101/2023.05.24.23290486v2)/PDF
-
-**QinQin Yu**, Joao Ascensao\*, Takashi Okada\*, Olivia Boyd, Erik Volz, Oskar Hallatschek. Lineage frequency time series reveal elevated levels of genetic drift in SARS-CoV-2 transmission. bioRxiv (2024). Under review at PLOS Pathogens.  
-[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.11.21.517390v3)/PDF
 
 ## Publications
+**QinQin Yu**, Scott Olesen, Claire Duvallet, and Yonatan Grad. Assessment of sewer connectivity in the United States and its implications for equity in wastewater-based epidemiology. medRxiv (2024). In press at PLOS Global Public Health.  
+[medRxiv](https://www.medrxiv.org/content/10.1101/2023.05.24.23290486v2)/PDF
+
+**QinQin Yu**, Joao Ascensao\*, Takashi Okada\*, Olivia Boyd, Erik Volz, Oskar Hallatschek. Lineage frequency time series reveal elevated levels of genetic drift in SARS-CoV-2 transmission. bioRxiv (2024). In press at PLOS Pathogens.  
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.11.21.517390v3)/PDF
+
 Joao A. Ascensao, Jonas Denk, Kristen Lok, **QinQin Yu**, Kelly M. Wetmore, Oskar Hallatschek. Rediversification following ecotype isolation reveals hidden adaptive potential. Current Biology (2024).    
 [DOI](https://doi.org/10.1016/j.cub.2024.01.029)/[bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.03.539206v1)/PDF
 
