@@ -29,7 +29,11 @@ Rock Bridge High School, Columbia, MO (2011)
 
 # Research
 
-**Harvard T. H. Chan School of Public Health**, Postdoctoral Fellow, 2022-present
+**Statens Serum Institut**, Researcher, 2026-present
+
+* Section of Viral Genomics in the Department of Virology and Microbiological Preparedness
+
+**Harvard T. H. Chan School of Public Health**, Postdoctoral Fellow, 2022-2026
 
 * Antigenic evolution in *Neisseria gonorrhoeae*  
 * Equity in wastewater-based epidemiology
