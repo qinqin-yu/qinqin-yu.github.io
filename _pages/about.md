@@ -12,7 +12,7 @@ Hi and welcome!
 
 I study how pathogens evolve and spread to help us understand how to better control and prevent infectious diseases. I also study how surveillance approaches, such as genomics and wastewater, can help us better quantify disease prevalence. 
 
-I am currently a researcher at the Statens Serum Institute, the national public health research institute of Denmark. I am part of the Section of Viral Genomics in the Department of Virology and Microbiological Preparedness where I contribute to developing new methods for virus surveillance perform research on viral evolution and transmission. 
+I am currently a researcher at the Statens Serum Institute, the national public health research institute of Denmark. I am part of the Section of Viral Genomics in the Department of Virology and Microbiological Preparedness where I contribute to developing new methods for virus surveillance perform and research on viral evolution and transmission. 
 
 Previously, I was a postdoctoral fellow working with Dr. Yonatan Grad in the Department of Immunology and Infectious Diseases at the Harvard T. H. Chan School of Public Health. I was also affiliated with the Center for Communicable Disease Dynamics. I studied how *Neisseria gonorrhoeae*, the bacterium causing the sexually-transmitted infection gonorrhea, undergoes variation of its surface antigens to evade recognition by human adaptive immune system while maintaining functionality for binding to human cells. I also assessed equitability of wastewater sampling for surveillance of infectious diseases. My work combined whole genome sequencing, analysis of genomic data, and mathematical modeling of infectious diseases. 
 

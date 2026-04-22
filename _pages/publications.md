@@ -27,7 +27,7 @@ Joao A. Ascensao, **QinQin Yu**, Oskar Hallatschek. The evolution of genetic dri
 
 ## Publications
 
-Takashi Okada, Giulio Isacchini, **QinQin Yu**, Oskar Hallatschek. Uncovering heterogeneous inter-community disease transmission from neutral allele frequency time series. PNAS (2025). [DOI](https://www.pnas.org/doi/10.1073/pnas.2500663122)[medRxiv](https://www.medrxiv.org/content/10.1101/2024.12.02.24318370v1).
+Takashi Okada, Giulio Isacchini, **QinQin Yu**, Oskar Hallatschek. Uncovering heterogeneous inter-community disease transmission from neutral allele frequency time series. PNAS (2025). [DOI](https://www.pnas.org/doi/10.1073/pnas.2500663122)/[medRxiv](https://www.medrxiv.org/content/10.1101/2024.12.02.24318370v1).
 
 **QinQin Yu**, Scott Olesen, Claire Duvallet, and Yonatan Grad. Assessment of sewer connectivity in the United States and its implications for equity in wastewater-based epidemiology. PLoS Global Public Health (2024).  
 [DOI](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003039)/[medRxiv](https://www.medrxiv.org/content/10.1101/2023.05.24.23290486v2)/PDF
