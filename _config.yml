@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "QinQin Yu"
   avatar           : "profile.jpg"
-  bio              : "Researcher at Statens Serum Institut | formerly: Postdoctoral Fellow @ Harvard Chan School | PhD @ UC Berkeley, IDEAS Social Innovation Challenge Fellow in Rwanda | pathogen evolution, bacterial genomics, public health | diversity, equity, and inclusion in public health and STEM | she/her/hers"
+  bio              : "Researcher at Statens Serum Institut | formerly: Postdoctoral Fellow @ Harvard Chan School | PhD @ UC Berkeley, IDEAS Social Innovation Challenge Fellow in Rwanda | pathogen evolution & transmission, microbial genomics, public health | diversity, equity, and inclusion in public health and STEM | she/her/hers"
   location         : "Copenhagen, Denmark"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=fgE6430AAAAJ&hl=en"
-  email            : "qinqinyu@hsph.harvard.edu"
+  email            : "qinyu@ssi.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "QinQinYu"
+  twitter          :
   vine             :
   weibo            :
   xing             :

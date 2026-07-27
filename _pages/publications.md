@@ -21,11 +21,14 @@ Note that before 2014, my legal name was Qinsi Yu.
 
 ## Preprints
 
-**QinQin Yu**, Tatum D. Mortimer, Sofia O.P. Blomqvist, Bailey Bowcutt, David Helekal, Samantha G. Palace, Yonatan H. Grad. Diversity and evolution of a phase-variable multi-locus antigen in *Neisseria gonorrhoeae*. bioRxiv (2026). [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.02.02.703239v2).
 
 Joao A. Ascensao, **QinQin Yu**, Oskar Hallatschek. The evolution of genetic drift over 50,000 generations. bioRxiv (2026). [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.01.25.701616v1).
 
 ## Publications
+
+Mulatu Melese Derebe, **QinQin Yu**, Abaineh Munshea, Gizachew Yismaw Wubetu, Surafel Fentaw, Tesfa Addis Kefale, Rebecca M McSweeney, Nadia Debech, Vegard Eldholm, Tatiana Ponton Tomaselli, Afework Kassu, Adane Mihret, Yemane Berhane, Anne C C Lee, Yonatan H Grad, Bente Børud. Phenotypic and genotypic characterization of Neisseria gonorrhoeae isolates from Ethiopia, 2021 to 2023. JAC-Antimicrobial Resistance (2026). [DOI](https://academic.oup.com/jacamr/article/8/4/dlag126/8740305)
+
+**QinQin Yu**, Tatum D. Mortimer, Sofia O.P. Blomqvist, Bailey Bowcutt, David Helekal, Samantha G. Palace, Yonatan H. Grad. Diversity and evolution of a phase-variable multi-locus antigen in *Neisseria gonorrhoeae*. PloS Pathogens (2026). [DOI](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013962)/[bioRxiv](https://www.biorxiv.org/content/10.64898/2026.02.02.703239v2).
 
 Takashi Okada, Giulio Isacchini, **QinQin Yu**, Oskar Hallatschek. Uncovering heterogeneous inter-community disease transmission from neutral allele frequency time series. PNAS (2025). [DOI](https://www.pnas.org/doi/10.1073/pnas.2500663122)/[medRxiv](https://www.medrxiv.org/content/10.1101/2024.12.02.24318370v1).
 
