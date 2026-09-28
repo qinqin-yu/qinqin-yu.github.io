@@ -22,9 +22,10 @@ Note that before 2014, my legal name was Qinsi Yu.
 ## Preprints
 
 
-Joao A. Ascensao, **QinQin Yu**, Oskar Hallatschek. The evolution of genetic drift over 50,000 generations. bioRxiv (2026). [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.01.25.701616v1).
 
 ## Publications
+
+Joao A. Ascensao, **QinQin Yu**, Oskar Hallatschek. The evolution of genetic drift over 50,000 generations. Genetics (2026). [DOI](https://academic.oup.com/genetics/advance-article-abstract/doi/10.1093/genetics/iyag199/8750476?redirectedFrom=fulltext)/[bioRxiv](https://www.biorxiv.org/content/10.64898/2026.01.25.701616v1).
 
 Mulatu Melese Derebe, **QinQin Yu**, Abaineh Munshea, Gizachew Yismaw Wubetu, Surafel Fentaw, Tesfa Addis Kefale, Rebecca M McSweeney, Nadia Debech, Vegard Eldholm, Tatiana Ponton Tomaselli, Afework Kassu, Adane Mihret, Yemane Berhane, Anne C C Lee, Yonatan H Grad, Bente Børud. Phenotypic and genotypic characterization of Neisseria gonorrhoeae isolates from Ethiopia, 2021 to 2023. JAC-Antimicrobial Resistance (2026). [DOI](https://academic.oup.com/jacamr/article/8/4/dlag126/8740305)
 
