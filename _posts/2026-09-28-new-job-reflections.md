@@ -1,0 +1,23 @@
+---
+title: 'Reflections on my first 6 months at SSI'
+date: 2026-09-28
+permalink: /posts/2016/09/new-job-reflections/
+tags:
+  - reflections
+  - ssi
+  - public health
+---
+
+I’ve been working in my job at SSI for 3 months now. It’s hard to believe how fast the time has flown by, and yet, every day still feels long between all the new things to adjust to and various work and life responsibilities. Because multiple friends and colleagues have asked about my experiences and learning so far, I thought this would be a good time to collect my thoughts and write down my reflections.
+I have really enjoyed working at SSI so far. My colleagues are fantastic, kind, smart, and experienced, and the work has been really interesting. I’ve learned so much about public health in Denmark and Europe, and I am sure I will be learning much more in the months and years to come. A few things that I’ve found most interesting or surprising:
+1.	The way things operate is similar to in academia in many ways, with writing grants, doing research projects, and writing papers, but in other ways it’s different. There are directives that can come from the politicians above asking for specific diagnostic or surveillance tools, and they need to be accomplished too. 
+2.	Generally, people don’t have much time between all of their responsibilities, so there’s more value placed on getting things done quickly, even if it’s not perfect, than what I had noticed while being in academia. 
+3.	The funding landscape for public health in Denmark is shifting (possibly constantly). It seems like we’re moving towards more of a reliance on grant funding as the federal funding available for public health is becoming more limited. As a result, there’s a lot more emphasis placed on writing grants, and writing papers to be competitive for those grants, making it feel more similar to academia. 
+4.	Possibly related to the increased emphasis on grant funding, I have been given considerable freedom in developing project ideas. I currently work on a mix of projects that were initiated by other people and initiated by myself. Because I spent multiple weeks on grant writing during my first few weeks here, I was able to dedicate time to designing a project, reaching out to collaborators, and catching up on literature on the topic. 
+5.	Our department consists of sections that are divided by pathogen or technique. For instance, our section focuses on viral genomics across multiple pathogens, whereas there is also an influenza and other respiratory viruses section. 
+6.	There are a lot of veterinary pathogens being surveilled, with also changes over time. Veterinary pathogen surveillance has a whole other set of incentives and goals attached to them compared to human pathogens. Because the primary purpose of livestock is for human use, there’s a lot more incentive to remain disease-free at all costs, and when culling allows a herd to remain disease-free, this is acceptable. 
+7.	While there’s more of a value placed on work-life balance, my impression is that how much each person works is based on workload as well as personal circumstances. During especially busy time periods, people may work outside of normal working hours as well. Generally speaking, people start early around (7:30-8:30am) and end early (around 3-4pm). 
+8.	While there are some PhD and masters’ students, most of my colleagues are not trainees. Our section has senior scientists, scientists, and technicians (currently no students), making it feel like a lot more of a professional workplace than I was used to in academia. Some scientists may pursue a PhD for a few years (sometimes in the same section they were working in) before transitioning back to their role. The senior scientists seem to have their pathogen or pathogens that they’re in charge of overseeing surveillance for, in addition to the work that they do on specific research projects.
+9.	There seems to be both formal and informal avenues for exchange with other European countries. Formally, there are specific grants that span multiple EU countries and the directives from politicians are sometimes coordinated at the European level too (for instance, when there were suspected hantavirus cases that needed confirmation). Informally, people have their personal connections with researchers in other European countries and at ECDC allowing them to share knowledge about the pathogens that they’re working on.
+
+That’s what I can think of right now, and I’m sure more impressions will surface as I keep thinking on it. I’ve really valued the time here so far and have enjoyed my experiences. I hope that that continues to be the case and am looking forward to all that I will learn in the coming months.
