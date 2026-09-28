@@ -8,7 +8,7 @@ tags:
   - public health
 ---
 
-I’ve been working in my job at SSI for 3 months now. It’s hard to believe how fast the time has flown by, and yet, every day still feels long between all the new things to adjust to and various work and life responsibilities. Because multiple friends and colleagues have asked about my experiences and learning so far, I thought this would be a good time to collect my thoughts and write down my reflections.
+I’ve been working in my job at SSI for 6 months now. It’s hard to believe how fast the time has flown by, and yet, every day still feels long between all the new things to adjust to and various work and life responsibilities. Because multiple friends and colleagues have asked about my experiences and learning so far, I thought this would be a good time to collect my thoughts and write down my reflections.
 I have really enjoyed working at SSI so far. My colleagues are fantastic, kind, smart, and experienced, and the work has been really interesting. I’ve learned so much about public health in Denmark and Europe, and I am sure I will be learning much more in the months and years to come. A few things that I’ve found most interesting or surprising:
 1.	The way things operate is similar to in academia in many ways, with writing grants, doing research projects, and writing papers, but in other ways it’s different. There are directives that can come from the politicians above asking for specific diagnostic or surveillance tools, and they need to be accomplished too. 
 2.	Generally, people don’t have much time between all of their responsibilities, so there’s more value placed on getting things done quickly, even if it’s not perfect, than what I had noticed while being in academia. 
