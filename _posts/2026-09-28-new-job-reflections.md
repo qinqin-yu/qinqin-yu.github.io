@@ -1,7 +1,7 @@
 ---
 title: 'Reflections on my first 6 months at SSI'
 date: 2026-09-28
-permalink: /posts/2016/09/new-job-reflections/
+permalink: /posts/2026/09/new-job-reflections/
 tags:
   - reflections
   - ssi
